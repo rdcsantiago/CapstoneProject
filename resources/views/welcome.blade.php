@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel this is from development branch
                 </div>
 
                 <div class="links">
